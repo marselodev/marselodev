@@ -1,8 +1,8 @@
 # 👨🏻‍💻 [Seu Nome Aqui]
 
-**`Desenvolvedor em Formação`**
-
-Pode tratar-me por Mestre. Sou focado em aprimorar a minha lógica de programação e em estruturar códigos eficientes. Gosto de resolver problemas práticos, criando desde algoritmos em C e scripts em Python até projetos orientados a objetos em Java. Quando não estou no VS Code ou a otimizar o hardware do meu PC, provavelmente estou a treinar pesado no ginásio, a editar vídeos ou a explorar conceitos de astronomia.
+a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desenvolvedor+em+formação;Focado+em+Python+e+C;Amante+de+Lógica+de+Programação" alt="Typing SVG" />
+</a>
 
 <p align="left">
     <a href="https://github.com/SEU_USUARIO_AQUI?tab=repositories&sort=stargazers">
