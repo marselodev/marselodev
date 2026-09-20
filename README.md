@@ -1,7 +1,7 @@
 # Marselodev
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desenvolvedor+em+formação;Focado+em+Python+e+C;Amante+de+Lógica+de+Programação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desenvolvedor+em+formação;" alt="Typing SVG" />
 </a>
 
 VOU DESENVOLVENDOR AI
