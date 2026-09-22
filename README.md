@@ -10,22 +10,9 @@
 
 ### 👾 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" 
-/>
+<kbd><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" /></kbd>
+&nbsp;
+<kbd><img width="30px" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" title="C" /></kbd>
 
 <br/>
 <br/>
