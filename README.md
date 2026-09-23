@@ -27,10 +27,9 @@
     src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" 
 />
 
-<br/>
-<br/>
-<br/>
+<br clear="all" />
+<br />
 
-<div align="center">
-  <img src="https://media.tenor.com/m/fWTu1gR5264AAAAd/spongebob-dancing.gif" width="200px" alt="Bob Esponja Dançando" />
-</div>
+<p align="center">
+  <img src="https://media1.tenor.com/m/fWTu1gR5264AAAAd/spongebob-dancing.gif" width="200px" alt="Bob Esponja Dançando" />
+</p>
