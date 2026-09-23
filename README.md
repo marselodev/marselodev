@@ -29,9 +29,4 @@
 
 <br/>
 <br/>
-
-<br/>
-
-<div align="center">
-  <img alt="GIF Animado" width="300px" src="https://tenor.com/eANBklKLzNv.gif" />
-</div>
+<img align="right" width="200px" src="https://media.tenor.com/m/fWTu1gR5264AAAAd/spongebob-dancing.gif" alt="Bob Esponja Dançando" />
