@@ -26,4 +26,4 @@
   />
 </p>
 
-<img width="220" height="209" alt="output-onlinegiftools-com" src="https://github.com/user-attachments/assets/47833a0f-f61a-4d35-a6aa-3db73f0a5d8a" />
+<img width="220" height="209" alt="spongebob-dancing" src="https://github.com/user-attachments/assets/4fe85498-f136-4bc1-beca-abbdb629d655" />
