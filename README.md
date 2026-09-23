@@ -1,7 +1,5 @@
 # Marselodev
 
-<img width="200" align="right" alt="spongebob-dancing" src="https://github.com/user-attachments/assets/2d3d0de3-ceac-4ba1-87e0-4de06a17ff18" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desenvolvedor+em+formação;" alt="Typing SVG" />
 </a>
@@ -27,3 +25,5 @@
       src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" 
   />
 </p>
+
+<img width="220" height="209" alt="output-onlinegiftools-com" src="https://github.com/user-attachments/assets/47833a0f-f61a-4d35-a6aa-3db73f0a5d8a" />
