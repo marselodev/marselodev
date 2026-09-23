@@ -26,5 +26,4 @@
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" 
 />
-
-<div class="tenor-gif-embed" data-postid="3717772640009073571" data-share-method="host" data-aspect-ratio="1.04762" data-width="100%"><a href="https://tenor.com/view/spongebob-dancing-dancing-spongebob-spongebob-meme-spongebob-dancing-gif-3717772640009073571">Spongebob Dancing GIF</a>from <a href="https://tenor.com/search/spongebob-gifs">Spongebob GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="220" height="209" alt="spongebob-dancing" src="https://github.com/user-attachments/assets/2d3d0de3-ceac-4ba1-87e0-4de06a17ff18" />
