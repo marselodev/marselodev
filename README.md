@@ -27,9 +27,4 @@
     src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" 
 />
 
-<br clear="all" />
-<br />
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/fWTu1gR5264AAAAd/spongebob-dancing.gif" width="200px" alt="Bob Esponja Dançando" />
-</p>
+<div class="tenor-gif-embed" data-postid="3717772640009073571" data-share-method="host" data-aspect-ratio="1.04762" data-width="100%"><a href="https://tenor.com/view/spongebob-dancing-dancing-spongebob-spongebob-meme-spongebob-dancing-gif-3717772640009073571">Spongebob Dancing GIF</a>from <a href="https://tenor.com/search/spongebob-gifs">Spongebob GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
