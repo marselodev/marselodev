@@ -26,4 +26,8 @@
   />
 </p>
 
+<a href="https://giphy.com/gifs/rockstar-games-lucia-in-the-club-X4ssbrVIX187vqDKAx">
+  <img src="https://media.giphy.com/media/X4ssbrVIX187vqDKAx/giphy.gif" width="250" alt="Lucia GTA 6" />
+</a>
+
 <img width="220" height="209" alt="spongebob-dancing" src="https://github.com/user-attachments/assets/4fe85498-f136-4bc1-beca-abbdb629d655" />
