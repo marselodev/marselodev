@@ -31,3 +31,5 @@
 </a>
 
 <img width="220" height="209" alt="spongebob-dancing" src="https://github.com/user-attachments/assets/4fe85498-f136-4bc1-beca-abbdb629d655" />
+
+<div class="tenor-gif-embed" data-postid="4581613549586237627" data-share-method="host" data-aspect-ratio="1.68421" data-width="100%"><a href="https://tenor.com/view/rdr-fun-meme-arthur-morgan-gif-4581613549586237627">Rdr Fun Meme</a>from <a href="https://tenor.com/search/rdr-memes">Rdr Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
